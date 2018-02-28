@@ -1,0 +1,8 @@
+Idea:
+la pagina consiste en acceso a un domicilio o compra por internet de unos deliciosos
+y trutitivos  waffles libres de carboidrato, bajos en grasa y gluten, tiene la facilidad de 
+escoger en el menu los diferentes estilos de platos que ofrece la marca y adiciones para la
+compra, ademas puedes pedir la cantidad que desees añadiendolas al carrito de compras, luego 
+se oprime el boton domicilio para solicitar la compra.
+
+esto facilita la distribucion del producto dado que este se vende en un foodtruk en copacabana.
